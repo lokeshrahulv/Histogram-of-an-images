@@ -79,12 +79,12 @@ cv2.destroyAllWindows()
 
 
 ### Histogram of Grayscale Image and any channel of Color Image
-Gray Scale:
-![Screenshot 2024-03-20 204453](https://github.com/lokeshrahulv/Histogram-of-an-images/assets/118423842/0b4d3475-bb4c-4901-a3dd-3fb4c4f88ee4)
+### Gray Scale:
+![fg](https://github.com/lokeshrahulv/Histogram-of-an-images/assets/118423842/bece7bc8-b262-4aa6-877b-f0510dfb1a8f)
 ![,,](https://github.com/lokeshrahulv/Histogram-of-an-images/assets/118423842/21a288d4-631c-43b0-b8c9-91bbd9280c52)
 
-Color Image:
-![Screenshot 2024-03-20 204521](https://github.com/lokeshrahulv/Histogram-of-an-images/assets/118423842/86c04e66-8532-48fc-b177-e3c648369eef)
+### Color Image:
+![yyh](https://github.com/lokeshrahulv/Histogram-of-an-images/assets/118423842/84d0e683-6631-4548-aa85-2e5a8252745f)
 ![kk](https://github.com/lokeshrahulv/Histogram-of-an-images/assets/118423842/0c54a330-3e57-4150-9792-6babfae179b4)
 
 
