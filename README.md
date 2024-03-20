@@ -24,8 +24,8 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 ```
-# Developed By: Lokesh Rahul V V
-# Register Number: 212222100024
+Developed By: Lokesh Rahul V V
+Register Number: 212222100024
 ```
 ## Input Grayscale Image and Color Image :
 ```python
